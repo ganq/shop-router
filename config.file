@@ -1,0 +1,17 @@
+dbHost=10.5.7.51
+dbUser=root
+dbName=b2b_parameter
+dbPort=3306
+dbPassword=123456
+supplierWebUrl=http://10.5.7.57:8084
+developerWebUrl=http://10.5.7.57:8083
+shopWebUrl=http://10.5.7.57:8099
+memcachedAddr=10.5.7.75:11211
+memcachedPoolSize=10
+numCPUs=2
+serverPort=9500
+logShow=on
+logFileName=/www/target/nodejs/logs/serverlog.log
+logLevel=DEBUG
+errorPage404Path=errorpage/404.html
+errorPage500Path=errorpage/500.html
